@@ -1,0 +1,227 @@
+*{margin: 0;}
+.banner{
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
+    url('/images/banner.png');
+    background-size: cover;
+    border-radius: 1rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 32rem;
+    margin: 3rem 8rem 0rem 8rem;
+}
+
+
+.title-lg{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 4.5rem;
+    font-weight: 900;
+    padding: 0rem 15rem;
+    margin: 0;
+}
+.title-sm{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 10rem;
+    margin-bottom: 1rem;
+}
+
+
+.discount-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-top: 7.5rem;
+    margin-bottom: 3rem;
+}
+
+.discount-text-first{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.discount-text-secound{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 3rem;
+}
+
+.new-year-img{
+    display: block;
+    margin: 0rem auto 7.5rem auto;
+    width: 40rem;
+
+}
+
+/* Welcome Section  */
+
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
+    url('/images/Vectorrr.png');
+    background-size: cover;
+    border-radius: 1rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 30rem;
+    margin: 3rem 8rem 7rem 8rem;
+}
+
+.welcome-img{
+    height: 22rem;
+    padding-right: 5rem;
+}
+.welcome-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: 0.44rem;
+    padding-left: 7rem;
+    margin-bottom: 1.5rem;
+}
+.welcome-para{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-left: 7rem;
+    margin-bottom: 2rem;
+}
+.welcome-btn{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding-left: 10rem;
+}
+
+/* Information Section  */
+
+.div-info{
+    width: 72.9rem;
+    height: 20rem;
+    border-radius: 1rem;
+    background : linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0rem auto 10rem auto;
+    padding-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-text{
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.info-text-red{
+    color: #F00;
+    font-family: Inter;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.btn-red{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0rem 30rem;
+    border-radius: 0.5rem;
+    background: #F00;
+    padding: 1rem 2rem;
+    border: none;
+    margin-top: 3rem;
+    
+}
+
+/* Offer Section  */
+
+.offers{
+    height: 20rem;
+    margin: 0rem 8rem 0rem 8rem;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    margin-bottom: 7rem;
+    
+}
+
+
+.offer-title{
+    margin-top: 2rem;
+    color: #F00;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.offer-status{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+}
+
+.offer-para{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 400;
+    width: 23rem;
+}
+
+
+
+.offer-img{
+    border-radius: 18.80275rem;
+    padding: 1rem;
+    height: 16.90275rem;
+    border-radius: 28.9375rem;
+    border: 9px solid #F00;
+}
+
+
+.offer-year-num{
+    margin-top: 2rem;
+    color: #F00;
+    font-family: Inter;
+    font-size: 3rem;
+    font-weight: 700;
+    
+}
+.offer-para2{
+    margin-top: 0.8rem;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+
+.new-year-img2{
+    height: 7rem;
+    margin-top: 1.5rem;
+}
