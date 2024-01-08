@@ -1,7 +1,7 @@
 *{margin: 0;}
 .banner{
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
-    url('/images/banner.png');
+    url('images/banner.png');
     background-size: cover;
     border-radius: 1rem;
     background-repeat: no-repeat;
@@ -72,7 +72,7 @@
     align-items: center;
     gap: 5rem;
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
-    url('/images/Vectorrr.png');
+    url('images/Vectorrr.png');
     background-size: cover;
     border-radius: 1rem;
     background-repeat: no-repeat;
@@ -286,7 +286,7 @@
 }
 
 /* .overlay{
-    background: url('/images/Rectangle1.png'), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+    background: url('images/Rectangle1.png'), lightgray -59.98px 0px / 151.553% 100% no-repeat;
     background-size: cover;
     width: 20rem;
     border-radius: 1rem 1rem 0rem 0rem;
