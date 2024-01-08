@@ -225,3 +225,224 @@
     height: 7rem;
     margin-top: 1.5rem;
 }
+
+
+.functional-div{
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+.functional{
+    text-align: center;
+}
+
+.functional-heading{
+    color: #070211;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.functional-sale-red{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 4.5rem;
+    font-weight: 900;
+}
+
+.functional-sale{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 4.5rem;
+    font-weight: 900;
+}
+
+.functional-para{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.dicounts{
+    /* display: flex; */
+    margin-top: 4rem;
+    margin-bottom: 7rem;
+    gap: 28rem;
+}
+
+.box{
+    height: 20rem;
+    padding-top: 10rem;
+
+}
+.border{
+    height: 12rem;
+    border-radius: 0rem 0rem 1rem 1rem;
+    background-color: #F00;
+}
+
+/* .overlay{
+    background: url('/images/Rectangle1.png'), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+    background-size: cover;
+    width: 20rem;
+    border-radius: 1rem 1rem 0rem 0rem;
+    
+} */
+.cuppon{
+    height: 12rem;
+    display: inline;
+
+}
+
+.shopping{
+    display: inline;
+}
+
+
+.gallery{
+    margin: 5rem 8rem;
+}
+
+.gallery-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.gallery-title-2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 3rem;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.gallery-para{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+
+.gallery-photos{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+.row1{
+    width: 23rem;
+}
+
+
+
+.input-from{
+    width: 72.9rem;
+    height: 30rem;
+    margin: 0rem auto 10rem auto;
+    border-radius: 1rem;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+}
+
+.massage-icon{
+    width: 8rem;
+    height: 8rem;  
+    padding-top: 3rem; 
+    padding-bottom: 2rem;
+    
+}
+
+.input-title{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.input-para{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin: 0.5rem 12rem 1.5rem 12rem;
+}
+
+#input-email{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 3.125rem 0rem 0rem 3.125rem;
+    background: #FFF;
+    border: none;
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 1.5rem;
+    font-family: Inter;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+#input-email-submit{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0rem 3.125rem 3.125rem 0rem;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+}
+
+
+footer{
+    height: 35rem;
+    background: #070211;
+}
+
+.shop-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 10rem 8rem 3rem 8rem ;
+    
+}
+
+.icon{
+    display: inline;
+    width: 1rem;
+}
+
+.address-info{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 500;
+    display: inline;
+}
+
+.horizontal-line{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    margin: 0rem 8rem;
+}
+
+.social-icons{
+    text-align: center;
+}
+   
+
+.social-img-icons{
+    width: 2.2rem;
+    margin: 3rem 0.5rem
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 8rem 0rem 8rem ;
+}
