@@ -1,7 +1,7 @@
 *{margin: 0;}
 .banner{
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
-    url('images/banner.png');
+    url('../images/bg-img/Banners.png');
     background-size: cover;
     border-radius: 1rem;
     background-repeat: no-repeat;
@@ -72,7 +72,7 @@
     align-items: center;
     gap: 5rem;
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
-    url('images/Vectorrr.png');
+    url('../images/bg-img/Vectors.png');
     background-size: cover;
     border-radius: 1rem;
     background-repeat: no-repeat;
