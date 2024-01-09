@@ -402,6 +402,7 @@
     font-weight: 600;
     border: none;
     cursor: pointer;
+    margin-left: -3px;
 }
 
 
